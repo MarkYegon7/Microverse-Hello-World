@@ -5,6 +5,7 @@ Microverse Hello World
 ## Built With
 
 html
+
 css
 
 ## Live Demo
@@ -18,7 +19,9 @@ Shows how good we have understood the concepts
 ### Prerequisites
 
 In order to run this project you need:
+
 Editor of your choice
+
 Install linters
 
 ### Setup
@@ -32,9 +35,13 @@ Install this project with:npm
 ### Usage
 
 To run the project, execute the following command:
+
 npm init -y
+
 npx hint .
+
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
 npx stylelint "**/*.{css,scss}"
 
 ### Run tests
@@ -50,18 +57,22 @@ You can deploy this project using:Github
 Author1
 
 GitHub: @MarkYegon7
+
 Twitter: @Marksambai
+
 LinkedIn: Mark Yegon
 
 
 ##Future Features
 
 Add a landing page
+
 Add a Bio page
 
 ## Contributing 
 
 Contributions, issues, and feature requests are welcome!
+
 Feel free to email markyegonk@gmail.com
 
 ## Show your support
