@@ -63,7 +63,7 @@ Twitter: @Marksambai
 LinkedIn: Mark Yegon
 
 
-##Future Features
+###Future Features
 
 Add a landing page
 
