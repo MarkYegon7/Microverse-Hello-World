@@ -62,18 +62,17 @@ Twitter: @Marksambai
 
 LinkedIn: Mark Yegon
 
-
-###Future Features
-
-Add a landing page
-
-Add a Bio page
-
 ## Contributing 
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to email markyegonk@gmail.com
+
+## Future Features
+
+Add a landing page
+
+Add a Bio page
 
 ## Show your support
 
