@@ -1,108 +1,144 @@
-# Project Name
+<!-- TABLE OF CONTENTS -->
 
-Microverse Hello World
+# 📗 Table of Contents
 
-## Built With
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-html
+<!-- PROJECT DESCRIPTION -->
 
-css
+# 📖 [Microverse Hello World] <a name="about-project"></a>
 
-## Live Demo
+> Describe your project in 1 or 2 sentences.
 
-http://127.0.0.1:5500/
+**[Microverse Hello World]** is an activity created on day 2 of the first week to show the knowledge we have grasped
 
-## Getting Started
+## 🛠 Built With <a name="built-with"></a>
 
-Shows how good we have understood the concepts
+### Tech Stack <a name="tech-stack">The project is to determine the basic knowledge one has in git,HTML5,CSS and Linters </a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[None for now]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo">None for now</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started">To get started you need to clone the repository</a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-Editor of your choice
-
-Install linters
+In order to run this project you need:Clone the repository
 
 ### Setup
 
-Clone this repository to your desired folder:eg Documents folder
+Clone this repository to your desired folder:git@github.com:MarkYegon7/Microverse-Hello-World.git
 
-### Install
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Install this project with:npm
+<!-- AUTHORS -->
 
-### Usage
+## 👥 Authors <a name="authors"></a>
 
-To run the project, execute the following command:
+> Mention all of the collaborators of this project.
 
-npm init -y
+👤 **Mark Yegon**
 
-npx hint .
+- GitHub: [@MarkYegon7](https://github.com/MarkYegon7)
+- Twitter: [@Marksambai]
 
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-npx stylelint "**/*.{css,scss}"
+<!-- FUTURE FEATURES -->
 
-### Run tests
+## 🔭 Future Features <a name="future-features"></a>
 
-To run tests, run the following command:npx stylelint "**/*.{css,scss}"
+> Describe 1 - 3 features you will add to the project.
 
-### Deployment
+- [ ] **[Add a landing page]**
 
-You can deploy this project using:Github
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Authors
+<!-- CONTRIBUTING -->
 
-Author1
-
-GitHub: @MarkYegon7
-
-Twitter: @Marksambai
-
-LinkedIn: Mark Yegon
-
-## Contributing 
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to email markyegonk@gmail.com
+Feel free to check the [issues page](../../issues/).
 
-## Future Features
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Add a landing page
+<!-- SUPPORT -->
 
-Add a Bio page
+## ⭐️ Show your support <a name="support"></a>
 
-## Show your support
+> Write a message to encourage readers to support your project
 
-Write a message to encourage readers to support your project
+If you like this project feel free to give feedback email:markyegonk@gmail.com
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Aknowledgments 
+<!-- ACKNOWLEDGEMENTS -->
 
-I would like to thank my coding patners
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## License
+> Give credit to everyone who inspired your codebase.
 
-MIT License
+I would like to thank Microverse and coding partners who have been of great help.
 
-Copyright (c) 2023 MarkYegon7
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<!-- FAQ (optional) -->
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- **[Can this project be improved]**
+
+  - [Yes,feel free to add different features according to your project]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
