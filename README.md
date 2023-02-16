@@ -24,13 +24,15 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Microverse Hello World]** is an activity created on day 2 of the first week to show the knowledge we have grasped
+Microverse Hello World is an activity created on day 2 of the first week to show the knowledge we have grasped
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack">The project is to determine the basic knowledge one has in git,HTML5,CSS and Linters </a>
+### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
+
+The project is to determine the basic knowledge one has in git,HTML5,CSS and Linters
 
 <details>
   <summary>Client</summary>
@@ -46,7 +48,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[None for now]**
+- None for now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
