@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Microverse Hello World] <a name="about-project"></a>
+# 📖 Microverse Hello World <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -54,7 +54,9 @@ The project is to determine the basic knowledge one has in git,HTML5,CSS and Lin
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo">None for now</a>
+## 🚀 Live Demo <a name="live-demo"></a>
+
+None for now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,8 +84,8 @@ Clone this repository to your desired folder:git@github.com:MarkYegon7/Microvers
 
 👤 **Mark Yegon**
 
-- GitHub: [@MarkYegon7](https://github.com/MarkYegon7)
-- Twitter: [@Marksambai]
+- GitHub: @MarkYegon7 (https://github.com/MarkYegon7)
+- Twitter: @Marksambai
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +95,7 @@ Clone this repository to your desired folder:git@github.com:MarkYegon7/Microvers
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Add a landing page]**
+- [ ] Add a landing page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,9 +133,9 @@ I would like to thank Microverse and coding partners who have been of great help
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[Can this project be improved]**
+- Can this project be improved
 
-  - [Yes,feel free to add different features according to your project]
+  -Yes,feel free to add different features according to your project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
