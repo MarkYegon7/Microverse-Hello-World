@@ -18,7 +18,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 Microverse Hello World <a name="about-project"></a>
 
@@ -42,7 +42,7 @@ The project is to determine the basic knowledge one has in git,HTML5,CSS and Lin
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
